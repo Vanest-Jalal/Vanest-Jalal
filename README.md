@@ -74,7 +74,7 @@ I'm currently building my portfolio and adding projects from my studies.
 
 
 
-## 📫 Let's Connect
+# Let's Connect 💌
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vanest--Jalal-181717?style=for-the-badge&logo=github)](https://github.com/Vanest-Jalal)
 
