@@ -1,5 +1,3 @@
-## Hi there
-
 # Hi, I'm Vanest Jalal
 
 # Frontend Developer Student | Multimedia Designer
@@ -75,15 +73,6 @@ My background in both design and frontend development allows me to think about b
 I'm currently building my portfolio and adding projects from my studies.
 
 
----
-
-## 📊 GitHub Stats
-
-![Vanest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanest-Jalal&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanest-Jalal&layout=compact)
-
----
 
 ## 📫 Let's Connect
 
